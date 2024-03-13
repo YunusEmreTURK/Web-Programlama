@@ -1,0 +1,51 @@
+.sliderİmg{
+    height: 700px;
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 50px;
+}
+
+.hakkimda{
+    background-color: #f2f2f2 ;
+}
+
+.ayirici{
+    border:none;
+    border-top:3px solid;
+    color: black;
+    max-width: 250px;
+    margin: 25px auto;
+}
+
+.bgGri{
+    color: black;
+    position:relative ;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid #f2f2f2;
+    background-color: #f2f2f2;
+}
+
+.iletisim{
+    background-color: #f2f2f2 ;
+}
+
+.projeler{
+    border: white;
+    background-color: white;
+}
+
+.bgBeyaz{
+    color: black;
+    position:relative ;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid white;
+    background-color: white;
+}
+
+.header{
+    height: 20px;
+}
